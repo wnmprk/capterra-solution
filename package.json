@@ -1,0 +1,16 @@
+{
+  "name": "capterra-takehome",
+  "version": "1.0.0",
+  "description": "Filtering clicks...",
+  "main": "solution.js",
+  "scripts": {
+    "solution": "node index.js",
+    "test": "mocha tests.js"
+  },
+  "author": "Jessica Park",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
